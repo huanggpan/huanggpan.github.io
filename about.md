@@ -21,7 +21,7 @@ ps：第二天下午又修修补补了一下，基本上完工了。我也要出
 
 <br/>
 
-<font color=gray size=2> 联系方式: huanggpan@163.com </font>
+<font color=gray size=2> 联系方式: huanggpan@126.com </font>
 
 ---
 <font color=gray size=2> * 本博客参考模版：https://github.com/cnfeat/cnfeat.github.io，对博主陈素封表示感谢！</font>
